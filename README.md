@@ -5,6 +5,12 @@
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
+<!--trying to figure out how this works, i forgot this shit already-->
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <div style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ccc;">Item 1</div>
+  <div style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ccc;">Item 2</div>
+  <div style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ccc;">Item 3</div>
+</div>
  <a href="https://dev.to/grungeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="grungeee" height="30" width="40" />
  </a>
 
